@@ -71,4 +71,4 @@ Chatbot: Nuestro horario es de lunes a viernes de 9:00 a 18:00 hrs.
 Desarrollado por Ituriel Liebes Sáenz
 
 ## 📝 Licencia
-Este proyecto se desarrolló como ejercicio de aprendizaje y no cuenta con una licencia formal. Uso libre para fines educativos o de práctica.
+Este proyecto se desarrolló como ejercicio de aprendizaje y no cuenta con una licencia formal. Uso libre para fines educativos o de práctica. 2025
